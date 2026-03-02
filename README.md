@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm MEHERAZ HOSEN SIAM 👋
 
-<!--
-**meherazhosensiam/meherazhosensiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Learner | Future Penetration Tester
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* Passionate about Cybersecurity and Ethical Hacking
+* Learning Python, Linux, Networking, and Web Security
+* Building cybersecurity tools and automation scripts
+* Interested in Penetration Testing and Security Research
+
+---
+
+## 🛠️ Skills
+
+* Python
+* Bash Scripting
+* Linux
+* Networking
+* Git & GitHub
+
+---
+
+## 📂 Current Focus
+
+* Building Security Tools
+* Learning Web Security
+* Improving Python Skills
+* Creating Professional GitHub Projects
+
+---
+
+## 🎯 Goal
+
+Become a professional penetration tester and cybersecurity expert
+
+---
+
+⚡ Always learning. Always improving. Always securing.
