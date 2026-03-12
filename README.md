@@ -12,6 +12,15 @@
 * Interested in Penetration Testing and Security Research
 
 ---
+## 📜 Certificates
+
+- Python Certificate  
+  [View Certificate](Certificates/CERTIFICATE OF PYTHON ACHIEVEMENT.pdf)
+
+
+- Cybersecurity Certificate  
+  [View Certificate](Certificates/MehACHIEVEMENTeraz hosen siam-cyber-fr 1-C36803.pdf)
+
 
 ## 🛠️ Skills
 
