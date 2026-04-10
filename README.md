@@ -23,7 +23,7 @@
 ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-yellow?style=for-the-badge&logo=bugcrowd)
 ![Web Security](https://img.shields.io/badge/Web%20Security-blueviolet?style=for-the-badge)
 ![XSS](https://img.shields.io/badge/XSS-critical?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-red?style=for-the-badge&logo=owasp)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=meherazhosensiam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=meherazhosensiam&theme=dark&hide_border=false)<br/>
