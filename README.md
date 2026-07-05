@@ -8,7 +8,14 @@
 # 💻 Tech Stack:
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Nmap](https://img.shields.io/badge/Nmap-005A9C?style=for-the-badge&logo=nmap&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-FF007F?style=for-the-badge)
+![Subfinder](https://img.shields.io/badge/Subfinder-34D058?style=for-the-badge)
+![httpx](https://img.shields.io/badge/httpx-4B0082?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-3F51B5?style=for-the-badge&logo=metasploit&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
