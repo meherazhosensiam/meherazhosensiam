@@ -37,17 +37,17 @@
 
 ## 📂 Current Focus
 
-* Building Security Tools
-* Learning Web Security
-* Improving Python Skills
-* Creating Professional GitHub Projects
+🔐 Developing Cybersecurity Tools & Automation Frameworks
+🐧 Building & Improving AureonOS Linux Distribution
+🌐 Advancing Web Application Security & Penetration Testing Skills
+🐍 Creating Python/Bash Security Solutions
+🚀 Growing Open-Source Cybersecurity Projects
 
 ---
 
 ## 🎯 Goal
 
-Become a professional penetration tester and cybersecurity expert
-
+Become a skilled penetration tester and cybersecurity researcher, creating impactful security tools and open-source solutions.
 ---
 
-⚡ Always learning. Always improving. Always securing.
+⚡ Continuously learning. Constantly building. Always advancing in cybersecurity.
