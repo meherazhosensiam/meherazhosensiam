@@ -1,6 +1,10 @@
 # 💫 About Me:
-* Passionate about Cybersecurity and Ethical Hacking<br>* Learning Python, Linux, Networking, and Web Security<br>* Building cybersecurity tools and automation scripts<br>* Interested in Penetration Testing and Security Research
 
+* Cybersecurity researcher passionate about ethical hacking and security engineering<br>
+* Linux distribution developer and creator of AureonOS<br>
+* Building cybersecurity tools, automation frameworks, and open-source projects<br>
+* Exploring penetration testing, web application security, and security research<br>
+* Continuously improving skills in Python, Linux, networking, and offensive security
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@meheraz_hosen_siam) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@meheraz_hosen_siam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meherazhosensiam@gmail.com) 
