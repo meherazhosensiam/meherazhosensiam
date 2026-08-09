@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#030405"/><stop offset=".58" stop-color="#090b10"/><stop offset="1" stop-color="#14070b"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" x2="1">
+      <stop stop-color="#ff1738"/><stop offset="1" stop-color="#d90429"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" x2="1">
+      <stop stop-color="#22c55e"/><stop offset="1" stop-color="#16a34a"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#fff" stroke-opacity=".035"/>
+    </pattern>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.3" fill="#d90429" opacity=".18"/>
+    </pattern>
+    <filter id="glowRed"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glowGreen"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="bannerClip"><rect width="1600" height="500" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#bannerClip)">
+    <rect width="1600" height="500" fill="url(#bg)"/>
+    <rect width="1600" height="500" fill="url(#grid)"/>
+    <rect x="900" width="700" height="500" fill="url(#dots)"/>
+
+    <!-- Moving cyber scan -->
+    <rect x="96" y="-20" width="3" height="540" fill="#20d980" opacity=".16">
+      <animate attributeName="x" values="96;1560;96" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="100" y="0" width="1450" height="2" fill="#ff1738" opacity=".22">
+      <animate attributeName="y" values="0;500;0" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="2" y="2" width="1596" height="496" rx="21" fill="none" stroke="#7d8791" stroke-opacity=".7"/>
+
+    <!-- Animated circuit traces -->
+    <g fill="none" stroke="#d90429" stroke-width="1.5" opacity=".38">
+      <path d="M1020 500v-70h80v-45h100v-60h95">
+        <animate attributeName="stroke-opacity" values=".12;.8;.12" dur="2.8s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1190 500v-55h100v-75h120v-65h90">
+        <animate attributeName="stroke-opacity" values=".8;.12;.8" dur="3.4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1410 0v70h-80v50h-100v65h-90">
+        <animate attributeName="stroke-opacity" values=".12;.75;.12" dur="2.4s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <g fill="#ff1738">
+      <circle cx="1100" cy="430" r="3"><animate attributeName="r" values="2;6;2" dur="1.4s" repeatCount="indefinite"/></circle>
+      <circle cx="1200" cy="325" r="3"><animate attributeName="r" values="6;2;6" dur="1.8s" repeatCount="indefinite"/></circle>
+      <circle cx="1290" cy="445" r="3"><animate attributeName="r" values="2;5;2" dur="2.1s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- Sidebar -->
+    <rect width="92" height="500" fill="#05070a" fill-opacity=".95"/>
+    <path d="M92 0V500" stroke="#27303a"/>
+    <g fill="none" stroke="#9aa4af" stroke-width="2">
+      <rect x="38" y="42" width="34" height="28" rx="6" stroke="#ff1738">
+        <animate attributeName="stroke-opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/>
+      </rect>
+      <path d="M46 50l8 6-8 6m11 0h8" stroke="#ff1738"/>
+      <path d="M60 121l-12 7 12 7 12-7z"/>
+      <circle cx="60" cy="197" r="16"/>
+      <path d="M60 181v32M44 197h32"/>
+      <rect x="45" y="267" width="30" height="25" rx="4"/>
+      <path d="M50 274l7 6-7 6m11 0h8"/>
+      <rect x="47" y="347" width="26" height="22" rx="4"/>
+      <path d="M51 347v-7c0-7 18-7 18 0v7"/>
+      <path d="M45 425h30M49 417h22M53 409h14"/>
+    </g>
+
+    <!-- Terminal -->
+    <text x="122" y="45" font-family="monospace" font-size="17" fill="#20d980">siam@github:~$</text>
+    <text x="302" y="45" font-family="monospace" font-size="17" fill="#e8edf2">whoami</text>
+    <text x="122" y="73" font-family="monospace" font-size="15" fill="#9ca5af">&gt; Cybersecurity Enthusiast | Linux Enthusiast | Developer</text>
+    <rect x="122" y="82" width="638" height="1" fill="#252b32"/>
+
+    <!-- Name -->
+    <rect x="122" y="145" width="7" height="153" rx="3" fill="url(#red)" filter="url(#glowRed)">
+      <animate attributeName="opacity" values=".55;1;.55" dur="1.7s" repeatCount="indefinite"/>
+    </rect>
+    <text x="153" y="205" font-family="Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="4" fill="#f4f7fa">MEHERAZ</text>
+    <text x="153" y="274" font-family="Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="3" fill="#f4f7fa">HOSSEN <tspan fill="#f32b3f">SIYAM</tspan><tspan fill="#ff1738">_</tspan></text>
+    <rect x="820" y="145" width="0" height="1" fill="none"/>
+
+    <!-- Blinking cursor -->
+    <rect x="665" y="253" width="13" height="48" rx="2" fill="#ff1738">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Tagline -->
+    <text x="153" y="321" font-family="monospace" font-size="15" fill="#20d980">&lt;/&gt;</text>
+    <text x="193" y="321" font-family="monospace" font-size="15" fill="#dfe5ea">BUILDING </text>
+    <text x="285" y="321" font-family="monospace" font-size="15" fill="#20d980">SECURE</text>
+    <text x="354" y="321" font-family="monospace" font-size="15" fill="#dfe5ea"> SYSTEMS. EXPLORING </text>
+    <text x="555" y="321" font-family="monospace" font-size="15" fill="#ff3348">SECURITY.</text>
+    <text x="655" y="321" font-family="monospace" font-size="15" fill="#dfe5ea"> BUILDING THE FUTURE.</text>
+
+    <!-- Skills -->
+    <g font-family="monospace">
+      <g transform="translate(150 365)">
+        <circle cx="18" cy="18" r="15" fill="none" stroke="#ff1738" stroke-width="2">
+          <animate attributeName="r" values="15;18;15" dur="2s" repeatCount="indefinite"/>
+        </circle>
+        <path d="M18 0v36M0 18h36" stroke="#ff1738"/>
+        <text x="48" y="15" font-size="14" fill="#e7ebef">PENETRATION</text>
+        <text x="48" y="34" font-size="14" fill="#aeb7c0">TESTING</text>
+      </g>
+      <line x1="340" y1="365" x2="340" y2="407" stroke="#343a42"/>
+      <g transform="translate(365 365)">
+        <path d="M18 2l15 7v11c0 11-7 17-15 21C10 37 3 31 3 20V9z" fill="none" stroke="#20d980" stroke-width="2"/>
+        <path d="M11 20l5 5 10-11" fill="none" stroke="#20d980" stroke-width="2"/>
+        <text x="48" y="15" font-size="14" fill="#e7ebef">WEB APP</text><text x="48" y="34" font-size="14" fill="#aeb7c0">SECURITY</text>
+      </g>
+      <line x1="555" y1="365" x2="555" y2="407" stroke="#343a42"/>
+      <g transform="translate(580 365)">
+        <rect x="2" y="3" width="31" height="28" rx="5" fill="none" stroke="#ff1738" stroke-width="2"/>
+        <path d="M9 11l7 6-7 6m11 0h8" stroke="#ff1738" stroke-width="2"/>
+        <text x="48" y="15" font-size="14" fill="#e7ebef">LINUX</text><text x="48" y="34" font-size="14" fill="#aeb7c0">ENTHUSIAST</text>
+      </g>
+      <line x1="770" y1="365" x2="770" y2="407" stroke="#343a42"/>
+      <g transform="translate(795 365)">
+        <text x="0" y="27" font-size="28" fill="#20d980">&lt;/&gt;</text>
+        <text x="52" y="15" font-size="14" fill="#e7ebef">CODE</text><text x="52" y="34" font-size="14" fill="#aeb7c0">&amp; AUTOMATION</text>
+      </g>
+    </g>
+
+    <!-- Code window -->
+    <g transform="translate(820 105)">
+      <rect width="470" height="255" rx="17" fill="#090b0f" stroke="#4c2228"/>
+      <rect width="470" height="42" rx="17" fill="#0e1116"/>
+      <circle cx="25" cy="21" r="6" fill="#ff3048"/><circle cx="45" cy="21" r="6" fill="#e4a62b"/><circle cx="65" cy="21" r="6" fill="#20b86a"/>
+      <text x="210" y="26" font-family="monospace" font-size="14" fill="#ff3348">profile.sh</text>
+      <g font-family="monospace" font-size="12">
+        <g fill="#66707b"><text x="20" y="70">01</text><text x="20" y="90">02</text><text x="20" y="110">03</text><text x="20" y="130">04</text><text x="20" y="150">05</text><text x="20" y="170">06</text><text x="20" y="190">07</text><text x="20" y="210">08</text><text x="20" y="230">09</text></g>
+        <text x="52" y="70" fill="#20d980">identity() {</text>
+        <text x="52" y="90" fill="#cbd5df">name = <tspan fill="#ff3348">"MEHERAZ HOSSEN SIYAM"</tspan>;</text>
+        <text x="52" y="110" fill="#cbd5df">focus = <tspan fill="#20d980">"Cybersecurity"</tspan>;</text>
+        <text x="52" y="130" fill="#cbd5df">focus += <tspan fill="#20d980">" Linux + Web Security"</tspan>;</text>
+        <text x="52" y="150" fill="#cbd5df">mode = <tspan fill="#ff3348">"learn • build • secure"</tspan>;</text>
+        <text x="52" y="170" fill="#20d980">while(learning) {</text>
+        <text x="68" y="190" fill="#cbd5df">research(); code(); test();</text>
+        <text x="52" y="210" fill="#20d980">}</text><text x="52" y="230" fill="#7d8791"># keep building</text>
+      </g>
+      <!-- Code cursor -->
+      <rect x="260" y="180" width="7" height="14" fill="#20d980"><animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/></rect>
+    </g>
+
+    <!-- Abstract cybersecurity emblem -->
+    <g transform="translate(1400 225)" fill="none">
+      <g>
+        <circle r="116" stroke="#ff1738" stroke-width="2" opacity=".5"/>
+        <circle r="94" stroke="#ff1738" opacity=".7"/>
+        <circle r="72" stroke="#ff1738" stroke-width="1.5"/>
+        <path d="M-130 0h-30M130 0h30M0-130v-30M0 130v30" stroke="#ff1738" stroke-width="3"/>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+      </g>
+      <g transform="rotate(45)">
+        <path d="M-105 0h-25M105 0h25M0-105v-25M0 105v25" stroke="#20d980" stroke-width="2" opacity=".65"/>
+      </g>
+    </g>
+    <g transform="translate(1400 225)">
+      <path d="M0-70l65 25v55c0 48-28 78-65 96-37-18-65-48-65-96v-55z" fill="#080b10" stroke="#ff1738" stroke-width="3"/>
+      <path d="M-28-2l21 20L29-19" fill="none" stroke="#20d980" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+        <animate attributeName="stroke-opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/>
+      </path>
+      <text x="-39" y="103" font-family="monospace" font-size="13" fill="#dfe5ea">&lt;SECURE/&gt;</text>
+    </g>
+
+    <!-- Bottom bar -->
+    <rect x="122" y="435" width="1170" height="44" rx="12" fill="#080b0e" stroke="#1c684a"/>
+    <g font-family="monospace" font-size="13">
+      <text x="145" y="462" fill="#20d980">●</text><text x="163" y="462" fill="#20d980">BANGLADESH</text>
+      <line x1="300" y1="445" x2="300" y2="470" stroke="#30363d"/>
+      <text x="322" y="462" fill="#e7ebef">github.com/meherazhosensiam</text>
+      <line x1="590" y1="445" x2="590" y2="470" stroke="#30363d"/>
+      <text x="612" y="462" fill="#20d980">ALWAYS LEARNING</text>
+      <line x1="795" y1="445" x2="795" y2="470" stroke="#30363d"/>
+      <text x="817" y="462" fill="#ff3348">ALWAYS BUILDING</text>
+    </g>
+    <rect x="1308" y="407" width="260" height="65" rx="12" fill="#080b0e" stroke="#27333a"/>
+    <text x="1328" y="429" font-family="monospace" font-size="11" fill="#20d980">siam@github:~$</text>
+    <text x="1328" y="449" font-family="monospace" font-size="11" fill="#e7edf2">cat philosophy.txt</text>
+    <text x="1328" y="465" font-family="monospace" font-size="9" fill="#8f9aa5">learn • create • secure • repeat</text>
+  </g>
+</svg>
