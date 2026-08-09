@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="meheraz_hossen_siyam_animated_github_banner.svg"
+       width="100%"
+       alt="Meheraz Hossen Siyam">
+</div>
 # 💫 About Me:
 
 * Cybersecurity researcher passionate about ethical hacking and security engineering<br>
