@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="meheraz_hossen_siyam_animated_github_banner.svg"
+  <img src="banner.svg"
        width="100%"
        alt="Meheraz Hossen Siyam">
 </div>
