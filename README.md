@@ -12,64 +12,66 @@
 
 <p align="center">
   <a href="https://github.com/meherazhosensiam">
-    <img src="https://img.shields.io/badge/GitHub-meherazhosensiam-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-meherazhosensiam-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/Cybersecurity-Offensive%20Security-critical?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Linux-System%20Engineering-black?style=for-the-badge&logo=linux">
-  <img src="https://img.shields.io/badge/Open%20Source-Builder-success?style=for-the-badge&logo=opensourceinitiative">
+  <a href="mailto:meherazhosensiam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-# 👋 About Me
+# 👨‍💻 About Me
 
-I am a cybersecurity-focused developer and security researcher building practical experience across **offensive security, web application security, Linux system engineering, automation, and open-source software**.
+I build and research in **cybersecurity, Linux systems, security tooling, and open-source software**.
 
-My approach is project-driven: I learn technologies by building, breaking, testing, documenting, and improving real systems rather than collecting tools or certificates.
+My primary technical focus is **web application security and offensive security**, supported by hands-on work with Linux, networking, automation, vulnerability research, and security labs.
 
-My current work focuses on:
+I approach security from an engineering perspective:
 
-* 🔐 Web application security and authorized penetration testing
-* 🧪 Vulnerability research and security labs
-* 🐧 Linux system engineering and distribution development
-* ⚙️ Cybersecurity automation and security tooling
-* 🐍 Python and Bash development for security workflows
-* 🌐 Networking, reconnaissance, enumeration, and exploitation fundamentals
-* 🛠️ Building intentionally vulnerable environments for security research
-* 📦 Debian/Linux packaging and open-source contribution
-* 🔀 Git, GitHub, repositories, issues, branches, pull requests, and project documentation
-* 🤖 Practical use of AI-assisted development and security research workflows
+> **Understand → Build → Test → Break → Analyze → Fix → Document**
 
-I care about **understanding how systems actually work**, not simply knowing which command to run.
+Rather than only learning security tools, I focus on understanding the systems behind them and building reproducible environments where vulnerabilities can be investigated safely.
+
+### Current Areas
+
+* 🔐 Web Application Security
+* 🧪 Authorized Penetration Testing
+* 🔎 Vulnerability Research
+* 🐧 Linux System Engineering
+* ⚙️ Security Automation
+* 🛠️ Cybersecurity Tool Development
+* 🌐 Network Security
+* 📦 Linux Distribution & Package Development
+* 🔀 Open-Source Engineering
+* 📝 Security Reporting & Technical Documentation
 
 ---
 
 # 🛡️ Cybersecurity
 
-My primary cybersecurity direction is **offensive security and web application security**, with an emphasis on understanding vulnerabilities from both the attack and engineering perspectives.
+My security work currently centers around **web security, offensive security, vulnerability analysis, and Linux environments**.
 
-### Security Areas
+### Security Knowledge & Practice
 
-* Web Application Security
-* Penetration Testing
-* Vulnerability Assessment
 * Reconnaissance & Enumeration
-* Authentication & Authorization Security
+* Web Application Security
+* Authentication & Authorization
 * Access Control
 * Injection Vulnerabilities
-* XSS
+* Cross-Site Scripting (XSS)
 * SQL Injection
 * Security Misconfiguration
 * Privilege Escalation
 * Linux Security
 * Network Security
-* Exploit Fundamentals
+* Vulnerability Assessment
 * Security Automation
-* Vulnerability Research
-* CTF / Security Labs
+* Exploit-Development Fundamentals
+* Security Labs & CTF Environments
 * Bug Bounty Methodology
 
-### Security Tooling
+### Security Toolkit
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-005A9C?style=for-the-badge\&logo=nmap\&logoColor=white)
@@ -84,127 +86,125 @@ My primary cybersecurity direction is **offensive security and web application s
 
 # 🐧 Linux & Systems Engineering
 
-Linux is not just an environment I use for security testing — I actively work with the system itself.
+Linux is both my primary development environment and an area of technical work.
 
-### Current Areas
+I work with:
 
 * Linux administration
 * Bash scripting
-* Package management
 * Debian-based systems
-* Linux system troubleshooting
-* Networking and services
+* Package management
+* System services
+* Networking
 * Virtualization
+* System troubleshooting
 * System hardening
-* Bootable Linux environments
 * Debian Live Build
 * Linux packaging
-* GNOME desktop environments
-* System automation
-* Open-source contribution
+* GNOME environments
+* Open-source system development
 
-I am particularly interested in the engineering behind Linux distributions: **packages, repositories, boot processes, desktop integration, configuration, system services, installation environments, and maintainability**.
+I am particularly interested in the engineering behind Linux distributions — including **packages, repositories, system integration, installation environments, desktop components, configuration, and maintainability**.
 
 ---
 
-# 🔧 Development & Automation
+# 🔧 Development
 
-I use programming primarily as a means of solving engineering and security problems.
+I use programming to solve security and systems problems.
 
-### Languages & Technologies
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### Development Focus
+### Engineering Focus
 
-* Security tooling
-* Automation scripts
+* Security tools
 * CLI utilities
-* System utilities
+* Automation
+* Network programming
 * Linux applications
 * Security lab infrastructure
 * Vulnerability reproduction
-* Network programming
-* Exploit-development fundamentals
 * Developer tooling
+* System utilities
 
 ---
 
-# 🌐 Web Security & Security Labs
+# 🌐 Web Security Labs
 
-I build and analyze realistic environments instead of relying exclusively on theoretical examples.
+I build controlled environments for reproducing and studying security vulnerabilities.
 
-One of my current areas of work is developing intentionally vulnerable applications and infrastructure designed to reproduce common security problems in controlled environments.
-
-### Lab Technologies
+My lab work includes applications and infrastructure using technologies such as:
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
 
+The goal is to reproduce realistic security conditions rather than creating projects that simply demonstrate vulnerability names.
+
 ---
 
 # 📦 Open Source & GitHub
 
-I treat GitHub as more than a place to store code.
+I use GitHub as a development and research workspace rather than simply a code repository.
 
-My repositories are used to document:
+My projects include:
 
-* Security research
-* Lab write-ups
-* Software projects
-* Linux development
-* Automation
-* Experiments
-* Technical documentation
-* Reproducible environments
-* Development progress
+* Cybersecurity tools
+* Security labs
+* Linux projects
+* Automation utilities
+* Research experiments
+* Technical write-ups
+* System development
+* Open-source contributions
 
-I work with Git-based development workflows including:
+I work with:
 
-* Repository architecture
-* Branch management
-* Commit history
-* Pull requests
-* Issue tracking
-* Feature development
+* Git
+* Branches
+* Pull Requests
+* Issues
+* Repository organization
+* Release management
 * Documentation
-* Release organization
 * Code review
-* Open-source collaboration
+* Reproducible development workflows
 
-My objective is to make projects **understandable, reproducible, maintainable, and useful to other developers and security researchers**.
+My focus is on making projects **understandable, reproducible, maintainable, and useful to other developers and security researchers**.
 
 ---
 
-# 🧪 Selected Project Areas
+# 🔬 Selected Work
 
-### 🔐 Cybersecurity Labs
+### 🛡️ Cybersecurity Tooling
 
-Hands-on environments for practicing vulnerability discovery, exploitation, privilege escalation, and defensive understanding.
+Security-focused utilities for reconnaissance, vulnerability discovery, automation, and repetitive security workflows.
 
-### 🐧 Linux Distribution Development
+### 🧪 Security Labs
 
-Development and experimentation around Debian-based Linux environments, system integration, packaging, desktop environments, and installation workflows.
+Controlled environments for practicing vulnerability discovery, exploitation, privilege escalation, and system analysis.
 
-### 🛠️ Security Tooling
+### 🐧 Linux Development
 
-Python/Bash utilities designed to automate repetitive security and system-administration tasks.
+Linux distribution, package, desktop, and system-level experimentation with a focus on Debian-based environments.
 
 ### 🌐 Vulnerable Web Applications
 
-Controlled applications designed to reproduce realistic web-security weaknesses for testing and education.
+Intentionally vulnerable applications designed to reproduce realistic web-security scenarios in controlled environments.
 
 ### 📚 Security Write-ups
 
-Documented lab solutions explaining **what happened, why the vulnerability existed, how exploitation worked, and how the system could be secured**.
+Technical documentation covering:
+
+**Reconnaissance → Vulnerability Identification → Exploitation → Privilege Escalation → Root Cause → Remediation**
 
 ---
 
@@ -218,58 +218,53 @@ Documented lab solutions explaining **what happened, why the vulnerability exist
 
 ---
 
-# 🎯 Current Professional Direction
+# 🎯 Current Focus
 
-My current development path is centered around becoming a **security-focused engineer capable of understanding, testing, building, and improving real-world systems**.
+### Cybersecurity
 
-### Current Priorities
+* Advanced Web Application Security
+* Authorized Penetration Testing
+* Vulnerability Research
+* Linux Security
+* Network Security
 
-* 🔐 Advanced Web Application Security
-* 🧪 Authorized Penetration Testing
-* 🔎 Vulnerability Research
-* 🐧 Linux System Engineering
-* ⚙️ Security Automation
-* 🐍 Python Security Tooling
-* 💻 C & Low-Level Security Fundamentals
-* 🌐 Network Security
-* 📦 Linux Distribution & Package Development
-* 🔀 Open-Source Engineering
-* 📚 Technical Documentation & Security Reporting
+### Engineering
 
----
+* Python Security Tooling
+* Bash Automation
+* C & Low-Level Security Fundamentals
+* Linux System Engineering
+* Security Lab Infrastructure
 
-# 📈 Engineering Philosophy
+### Open Source
 
-> **Don't just use the tool. Understand the system behind the tool.**
-
-I try to approach security from an engineering perspective:
-
-**Understand → Build → Test → Break → Analyze → Fix → Document**
-
-This helps me move beyond simply executing security commands and toward understanding **why a system behaves the way it does**.
+* Linux distribution development
+* Debian packaging
+* GitHub projects
+* Technical documentation
+* Open-source contribution
 
 ---
 
-# 🤝 What I Can Contribute
+# 🤝 Collaboration
 
-I am particularly interested in opportunities involving:
+I am interested in working on technically demanding projects involving:
 
-* Cybersecurity research
-* Web application security
-* Security testing
-* Security automation
-* Linux engineering
-* Security tooling
-* Open-source development
-* Technical research
-* Security lab development
-* Documentation and technical reporting
+* Cybersecurity
+* Web Application Security
+* Security Research
+* Security Automation
+* Linux Engineering
+* Security Tooling
+* Open-Source Software
+* Technical Research
+* Security Labs
 
-I am also interested in collaborating on technically challenging projects where I can **take ownership, investigate problems independently, build solutions, and document the result clearly**.
+I value projects where I can **investigate problems, take technical ownership, build solutions, test them, and document the results clearly**.
 
 ---
 
-# 📬 Contact
+# 📫 Contact
 
 <p align="center">
 
@@ -287,6 +282,6 @@ I am also interested in collaborating on technically challenging projects where 
 
 <div align="center">
 
-**Build systems. Break systems. Understand systems. Secure systems.**
+<strong>Build. Break. Understand. Secure.</strong>
 
 </div>
